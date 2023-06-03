@@ -1,0 +1,38 @@
+.line{
+    height:6px;
+background: black;
+width: 70px;
+margin: 8px auto;
+}
+
+body{
+    text-align: center;
+
+}
+
+#app{
+    background-color: lightblue;
+    width:100%;
+    height: 800px;
+}
+
+#game{
+    background-color: rgb(224, 176, 247);
+}
+
+#chatbots{
+    background-color: lightpink;
+}
+
+#myCarousel{
+    background-color: hotpink;
+}
+
+.container{
+    text-align: center;
+}
+
+#myCarousel img{
+   padding:10px;
+
+}
